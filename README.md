@@ -5,4 +5,4 @@ As of 2019, 720,000 hours of video is uploaded on YouTube alone, and 90% of peop
 
 ## Folder Structure
 Code -- Contains the Python notebook
-Conference Paper -- Contains a conference style paper which has all the details of the project.
+&nbsp;&nbsp;Conference Paper -- Contains a conference style paper which has all the details of the project.
